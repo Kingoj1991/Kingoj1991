@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kingoj1991
 - 👀 I’m interested in cybersecurity and ways to innovate the industry
-- 🌱 I’m currently learning penetration testing
+- 🌱 I’m currently learning clpud engineering 
 - 📫 You can reach me through email at ojefferson1991@gmail.com
 
 <!---
